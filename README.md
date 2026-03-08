@@ -1,2 +1,7 @@
 # PIC18F45K50 PIC-AS
 EJEMPLOS BASICOS PARA DOMINAR EL PIC 18F45K50
+RECORDAD QUE DEBEMOS LINKEAR LOS PSECT EN CADA PROGRAMA MEDIANTE EL LINKER
+-PresetVect=0X00
+-PMain=0x20
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e2a1fcd6-e098-471c-90d2-a88b59b9acdd" />
